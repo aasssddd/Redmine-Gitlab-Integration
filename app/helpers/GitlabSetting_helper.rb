@@ -1,0 +1,2 @@
+module GitlabSettingHelper
+end
